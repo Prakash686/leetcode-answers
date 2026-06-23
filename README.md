@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prakash686/leetcode-answers/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Prakash686/leetcode-answers/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Prakash686/leetcode-answers/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Prakash686/leetcode-answers/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
